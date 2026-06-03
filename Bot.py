@@ -38,7 +38,7 @@ from telegram.error import TelegramError, Forbidden
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # ⚙️  SOZLAMALAR
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-BOT_TOKEN = "8838342197:AAFhsnS8Wv7--Y3Qcewqb8xuTxNXCrzGbXk"
+BOT_TOKEN = "8207727623:AAFf03xoop6lTWhngoejm6d_MfCBLzy5bE4"
 BOT_USERNAME = "TomoshaVaqti_bot"
 DEVELOPER_USERNAME = "@salohiddinWebDev"
 DEVELOPER_ID = 8505118420   # Super-ega: hech kim uni adminlikdan chiqara olmaydi
